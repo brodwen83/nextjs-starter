@@ -5,7 +5,7 @@ export default function Home() {
     <Card className="mx-auto mt-4 max-w-md">
       <CardBody className="text-center">
         <h1 className="text-5xl">Next.js Starter</h1>
-        <p className="text-xl">A simple starter for Next.js</p>
+        <p className="text-xl">A simple starter for Next.js projects.</p>
       </CardBody>
     </Card>
   );
