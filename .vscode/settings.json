@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["camelcase", "ianvs", "nextui", "trivago", "typedefs"],
+  "cSpell.words": ["camelcase", "ianvs", "jiti", "nextui", "trivago", "typedefs"],
   "editor.codeActionsOnSave": {
     "source.fixAll": "always",
     "source.organizeImports": "always"
