@@ -10,6 +10,9 @@
     "starter",
     "typescript"
   ],
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
