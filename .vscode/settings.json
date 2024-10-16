@@ -5,6 +5,7 @@
     "source.organizeImports": "always"
   },
   "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
   "files.associations": {
     "*.css": "tailwindcss"
   },
