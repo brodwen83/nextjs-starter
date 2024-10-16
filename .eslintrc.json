@@ -19,8 +19,9 @@
       }
     }
   ],
-  "plugins": ["prettier", "check-file"],
+  "plugins": ["prettier", "check-file", "n"],
   "rules": {
+    "n/no-process-env": ["error"],
     "prettier/prettier": ["error", { "endOfLine": "auto" }],
     "no-console": ["error", { "allow": ["error", "warn"] }],
     "camelcase": "off",
